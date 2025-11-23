@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/Ci_Cd.csproj": {}
+  },
+  "projects": {
+    "/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/Ci_Cd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/Ci_Cd.csproj",
+        "projectName": "Ci_Cd",
+        "projectPath": "/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/Ci_Cd.csproj",
+        "packagesPath": "/Users/kirillkirill13let/.nuget/packages/",
+        "outputPath": "/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kirillkirill13let/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "LibGit2Sharp": {
+              "target": "Package",
+              "version": "[0.31.0, )"
+            },
+            "LibGit2Sharp.NativeBinaries": {
+              "target": "Package",
+              "version": "[2.0.323, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+pipeline {
+    agent {
+        docker { image 'mcr.microsoft.com/dotnet/sdk:8.0' }
+    }
+
+    stages {
+        stage('Build') {
+            steps {
+                sh 'dotnet restore'
+                sh 'dotnet build'
+                sh 'dotnet test'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                sh 'dotnet test'
+            }
+        }
+
+    }
+}
+

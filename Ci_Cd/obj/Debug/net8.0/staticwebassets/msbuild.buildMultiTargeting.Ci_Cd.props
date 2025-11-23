@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Ci_Cd.props" />
+</Project>
