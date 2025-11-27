@@ -37,9 +37,9 @@
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.AssemblyInfo.cs
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.csproj.CoreCompileInputs.cache
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.sourcelink.json
-/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.csproj.CopyComplete
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.dll
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/refint/Ci_Cd.dll
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.pdb
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.genruntimeconfig.cache
 /Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/ref/Ci_Cd.dll
+/Users/kirillkirill13let/RiderProjects/Ci_Cd/Ci_Cd/obj/Release/net8.0/Ci_Cd.csproj.Up2Date
